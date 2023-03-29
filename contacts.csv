@@ -1,3 +1,4 @@
-name,email,amount,file
-user_1,fdtcuhmg@drope.ml,15,bills/user_1_bill.txt
-user_2,tzihtjche@emlpro.com,27,bills/user_2_bill.txt
+name,email,amount
+user_1,fdtcuhmg@drope.ml,15
+user_2,tzihtjche@emlpro.com,27
+user_3,nguiajmg@drope.ml,10
